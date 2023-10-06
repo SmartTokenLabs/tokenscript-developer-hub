@@ -5,7 +5,8 @@ If you are an Android or iOS developer, you can check our open-source AlphaWalle
 If you are an embedded device deloper, you can check
 - [Web3E](https://github.com/AlphaWallet/Web3E)
 - [Web3E-Application](https://github.com/AlphaWallet/Web3E-Application)
-You can issue a token to control your IoT device.
+
+With Web3E, you can issue a token to control your IoT device.
 
 If you are a DApp developer to build a token-gated application, you can check
 - [token negotiator](https://github.com/TokenScript/token-negotiator)
