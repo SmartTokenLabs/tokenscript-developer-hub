@@ -12,7 +12,7 @@ As a developer, what can I do with TokenScript technique stack. Refer to [here](
 - AlphaWallet Android - https://github.com/AlphaWallet/alpha-wallet-android
 - Web3E - https://github.com/AlphaWallet/Web3E
 - Web3E Application - https://github.com/AlphaWallet/Web3E-Application
-- TokenScript Viewer https://viewer.tokenscript.org/ and repo -> https://github.com/AlphaWallet/TokenScript-Visualiser/
+- TokenScript Viewer https://viewer.tokenscript.org/ and repo will be public soon.
 - TokenNegotiator - https://github.com/TokenScript/token-negotiator examples https://github.com/TokenScript/token-negotiator-examples
 - TokenScript document - https://github.com/TokenScript/documents TokenScript examples https://github.com/TokenScript/TokenScript-Examples
 - TokenScript attestation - https://github.com/TokenScript/attestation 
